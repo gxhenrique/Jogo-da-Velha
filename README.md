@@ -1,6 +1,6 @@
 # 🎮 Jogo da Velha em Java
 
-Este é um projeto simples de **Jogo da Velha (Tic-Tac-Toe)** desenvolvido em **Java**, utilizando conceitos fundamentais da linguagem como matrizes, laços de repetição, estruturas condicionais e métodos.
+Este é um projeto simples de **Jogo da Velha ** desenvolvido em **Java**, utilizando conceitos fundamentais da linguagem como matrizes, laços de repetição, estruturas condicionais e métodos.
 
 O jogo é executado no **terminal** e permite dois jogadores jogarem alternadamente.
 
